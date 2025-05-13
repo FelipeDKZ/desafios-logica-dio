@@ -20,12 +20,14 @@ These exercises cover basic programming concepts such as conditionals, loops, in
 ## 📂 Folder Structure
 
 ```bash
-dio-logic-exercises/
-├── desafios/
-│   ├── Desafio01_SomaValores.java
-│   ├── Desafio02_ParOuImpar.java
-│   ├── ...
-```
+DESAFIOS-LOGICA-DIO/
+├── src/
+│   └── desafios/
+│       ├── Desafio01_SomaValores.java
+│       ├── Desafio02_ParOuImpar.java
+│       └── ...
+├── README.md
+├── .gitignore
 
 ## 🛠️ Technologies Used
 - Java 17+
