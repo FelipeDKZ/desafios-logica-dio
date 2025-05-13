@@ -1,18 +1,50 @@
-## Getting Started
+# 🧠 Logic Programming Exercises – DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains a list of logic programming challenges proposed by [DIO.me](https://www.dio.me/) to help developers improve their problem-solving skills. All solutions are implemented in **Java**.
 
-## Folder Structure
+## 📚 About
 
-The workspace contains two folders by default, where:
+These exercises cover basic programming concepts such as conditionals, loops, input/output, and mathematical operations. Ideal for beginners and those who want to reinforce their logical reasoning with Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+> 💡 The original list was shared as a community contribution to help aspiring devs evolve in their coding journey.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🚀 Topics Covered
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Variables and arithmetic operations  
+- Conditionals and boolean logic  
+- Input and output  
+- Loops and iterations  
+- Functions and modularity  
+- Practical scenarios (IMC, salary calculation, fuel usage)
 
-## Dependency Management
+## 📂 Folder Structure
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```bash
+dio-logic-exercises/
+├── desafios/
+│   ├── Desafio01_SomaValores.java
+│   ├── Desafio02_ParOuImpar.java
+│   ├── ...
+```
+
+## 🛠️ Technologies Used
+- Java 17+
+- IDE: VS Code or IntelliJ IDEA
+- Git & GitHub
+
+## ✅ How to Use
+1. Clone the repository:
+
+```
+git clone https://github.com/seu-usuario/dio-logic-exercises.git
+```
+2. Navigate to the folder:
+
+```
+cd dio-logic-exercises/desafios
+```
+
+3. Open the files in your favorite IDE and run them individually.
+
+## 👨‍💻 Author
+- Felipe Silva
