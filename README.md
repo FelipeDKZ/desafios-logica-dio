@@ -28,6 +28,7 @@ DESAFIOS-LOGICA-DIO/
 │       └── ...
 ├── README.md
 ├── .gitignore
+```
 
 ## 🛠️ Technologies Used
 - Java 17+
